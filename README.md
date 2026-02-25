@@ -19,10 +19,10 @@ This folder contains the fundamental building blocks of the Python language.
 ---
 
 ## 🛠️ Current Progress
-- [x] **Python Core Fundamentals** (Complete)
-- [ ] **Object-Oriented Programming (OOP)** (Next Step)
+- [x] **Python Core Fundamentals** (Completed)
+- [ ] **Object-Oriented Programming (OOP)** (completed)
 - [ ] **Pandas Library Practice** (completed)
-- [ ] **NumPy Foundations** (Upcoming)
+- [ ] **NumPy Foundations** (completed)
 
 ## 🎯 Focus Areas
 * **Efficiency:** Writing clean, Pythonic code.
